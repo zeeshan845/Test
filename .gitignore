@@ -1,0 +1,2 @@
+# Private local environment variables (never commit these)
+.env
